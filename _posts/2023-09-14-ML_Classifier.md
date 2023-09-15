@@ -2,7 +2,7 @@
 title:  "Markdown examples"
 layout: post
 ---
-{% include assets/IrisWeb.html%}
+{% include assets/IrisWeb.md%}
 
 
 
