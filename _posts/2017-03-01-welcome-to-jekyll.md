@@ -11,7 +11,7 @@ The primarily focus of this thought experiment is to gain analytical insight int
 5) Draw up a representation of the product as an assembly diagram and identify key characteristics that enable functionality of the product.
 6) Identify fits betweens holes and shafts based on model precision. 
 
-<object data="C:\Users\doanp\Downloads\Blender CAD.pdf" width="1000" height="1000" type='application/pdf'/>
+[Link to My PDF](https://drive.google.com/file/d/1Zcn1NsAWFh81koATo9i-G-vtdBWxvTPL/view?usp=sharing)
 
 
 
