@@ -1,8 +1,9 @@
 ---
 title:  "Markdown examples"
 layout: post
-custom_include: assets/IrisWeb.html
 ---
+{% include assets/IrisWeb.html%}
+
 
 
 
