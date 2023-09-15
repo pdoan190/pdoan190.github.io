@@ -1,7 +1,7 @@
 ---
 title: "Blender CAD Exercise"
 layout: post
-date: 2023-09-14 12:00:00 -0500
+date: 2023-09-14 12:00:00 
 ---
 
 The primarily focus of this thought experiment is to gain analytical insight into the manufacturing process by reverse engineering the given product (blender) and considering the various strategic choices that the manufacturer decided on in the implementation of the product. The project timeline is as follows: <br>
