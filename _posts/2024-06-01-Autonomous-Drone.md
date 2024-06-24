@@ -19,12 +19,12 @@ behaviors (stationary, different velocities). To win the competition, each schoo
 team's UGV has an ArUco Marker used to identify its home team. To further clarify, there are different rounds (one for each school and each challenge) whereby each team has their UAV flying (but each team's UGV is always stationed on the field). 
 
 
-**Key Engineering Characteristics for this Project**
+# Key Engineering Characteristics for this Project
 
-_Object Detection_ 
-_Water Delivery_
-_Water Detection_
-_Autonomy_
+- **Object Detection**
+- **Water Delivery**
+- **Water Detection**
+- **Autonomy**
 
 
 ## Project Documentation 
