@@ -31,7 +31,7 @@ Water Detection
 
 ## Project Documentation 
 
-You can find the detailed project documentation in the PDF below:
+You can find the detailed project documentation report in the PDF below:
 
 [![Design Packet](https://img.icons8.com/plasticine/2x/pdf.png)](https://drive.google.com/uc?export=download&id=14uxymVjN3h_GlxYp-hEB-1nteXhEm-9L)
 
