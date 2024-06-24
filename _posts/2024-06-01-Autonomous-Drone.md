@@ -6,7 +6,7 @@ categories: media
 ---
 
 
-## Screenshot
+## 3D-Rendered Models 
 
 ![Screenshot](/assets/UAV_UGV.png)
 
