@@ -10,7 +10,7 @@ categories: media
 
 ![Screenshot](/assets/UAV_UGV.png)
 
-Brief Overview 
+## Brief Overview 
 
 This section of the website outlines the Autonomous Drone Competition Project sponsored by Raytheon that was part of my Senior Capstone Project at UCSB. As a general overview, this project was directed
 as a competition between three schools. UCSB competed with Cal Poly Pomona and Cal State Long Beach at the SBCC football field and we ended up winning. The competition consisted of each team building an Unmanned Air Vehicle (UAV)
