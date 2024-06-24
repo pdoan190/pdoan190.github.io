@@ -18,7 +18,8 @@ and Unmanned Ground Vehicle (UGV), both being autonomus. The UAV and UGV can be 
 behaviors (stationary, different velocities). To win the competition, each school's team is able to collect points. In each of the challenges, the home team's UAV needs to find the (opposing team's) UGV and deliver a water blast. Each 
 team's UGV has an ArUco Marker used to identify its home team. To further clarify, there are different rounds (one for each school and each challenge) whereby each team has their UAV flying (but each team's UGV is always stationed on the field). 
 
-Key Engineering Characteristics for this Project
+
+**Key Engineering Characteristics for this Project**
 
 _Object Detection_ 
 _Water Delivery_
