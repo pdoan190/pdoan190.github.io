@@ -8,7 +8,7 @@ categories: media
 
 ## Screenshot
 
-![Screenshot](./_posts/UAV_UGV.png)
+![Screenshot](/assets/UAV_UGV.png)
 
 Brief Overview 
 
