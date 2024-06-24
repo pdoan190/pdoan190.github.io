@@ -33,8 +33,8 @@ Water Detection
 
 You can find the detailed project documentation in the PDF below:
 
-[![Design Packet](https://img.icons8.com/plasticine/2x/pdf.png)](https://github.com/pdoan190/pdoan190.github.io/main/Design_Packet.pdf)
+[![Design Packet](https://img.icons8.com/plasticine/2x/pdf.png)](https://github.com/pdoan190/pdoan190.github.io/_posts/Design_Packet.pdf)
 
-[Click here to view the PDF](https://github.com/pdoan190/pdoan190.github.io/blob/main/Design_Packet.pdf)
+[Click here to view the PDF](https://github.com/pdoan190/pdoan190.github.io/blob/_posts/Design_Packet.pdf)
 
 
