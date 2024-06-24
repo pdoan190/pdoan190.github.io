@@ -8,7 +8,7 @@ categories: media
 
 ## Screenshot
 
-![Screenshot](https://github.com/pdoan190/pdoan190.github.io/blob/_posts/UAV_UGV.png)
+![Screenshot](./_posts/UAV_UGV.png)
 
 Brief Overview 
 
