@@ -20,7 +20,10 @@ team's UGV has an ArUco Marker used to identify its home team. To further clarif
 
 Key Engineering Characteristics for this Project
 
-_Object Detection_ _Water Delivery_ _Water Detection_ _Autonomy_
+_Object Detection_ 
+_Water Delivery_
+_Water Detection_
+_Autonomy_
 
 
 ## Project Documentation 
