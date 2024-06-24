@@ -6,6 +6,10 @@ categories: media
 ---
 
 
+## Screenshot
+
+![Screenshot](https://github.com/your-username/pdoan190.github.io/blob/main/_posts/UAV_UGV.png)
+
 Brief Overview 
 
 This section of the website outlines the Autonomous Drone Competition Project sponsored by Raytheon that was part of my Senior Capstone Project at UCSB. As a general overview, this project was directed
@@ -14,19 +18,9 @@ and Unmanned Ground Vehicle (UGV), both being autonomus. The UAV and UGV can be 
 behaviors (stationary, different velocities). To win the competition, each school's team is able to collect points. In each of the challenges, the home team's UAV needs to find the (opposing team's) UGV and deliver a water blast. Each 
 team's UGV has an ArUco Marker used to identify its home team. To further clarify, there are different rounds (one for each school and each challenge) whereby each team has their UAV flying (but each team's UGV is always stationed on the field). 
 
-Key Engineering Characteristics for Each Autonomous Vehicle 
+Key Engineering Characteristics for this Project
 
-UAV
-
-Autonomy 
-Object Detection
-Water Deliver 
-
-
-UGV
-
-Autonomy 
-Water Detection 
+_Object Detection_ _Water Delivery_ _Water Detection_ _Autonomy_
 
 
 ## Project Documentation 
